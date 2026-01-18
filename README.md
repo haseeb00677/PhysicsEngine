@@ -34,7 +34,7 @@ The engine uses a **discrete time-step simulation loop** to approximate real-wor
 
 ## 💻 Build & Run Instructions
 
-### Option 1: Using g++ (Command Line)
+
 Ensure your SFML headers/libs are in the standard path or updated in the command below:
 
 ```bash
